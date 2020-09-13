@@ -1,0 +1,23 @@
+createdAt: "2020-09-10T12:14:27.628Z"
+updatedAt: "2020-09-12T17:05:47.809Z"
+type: "MARKDOWN_NOTE"
+folder: "908887bc17d3585507b5"
+title: "Links"
+tags: []
+content: '''
+  # Links
+  ---
+  ##### Markdown
+  [Tutorial.md](https://agea.github.io/tutorial.md/)
+  
+  [Markdown syntax guide - Atlassian Documentation](https://confluence.atlassian.com/bitbucketserver/markdown-syntax-guide-776639995.html)
+  
+  [Markdown PDF Guide](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+  
+  [Basic Syntax \\| Markdown Guide](https://www.markdownguide.org/basic-syntax/#overview)
+  
+  
+'''
+linesHighlighted: []
+isStarred: false
+isTrashed: false

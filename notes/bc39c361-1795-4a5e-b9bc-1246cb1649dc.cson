@@ -1,0 +1,34 @@
+createdAt: "2020-09-11T02:33:49.164Z"
+updatedAt: "2020-09-12T23:44:05.704Z"
+type: "MARKDOWN_NOTE"
+folder: "91c2a80b3db5ad742b1a"
+title: "Slack Clone"
+tags: []
+content: '''
+  # Slack Clone
+  ---
+  #### Build List
+  + ReactJS
+  + React Router
+  + Firebase
+    + Google User authentication
+    + Realtime Database
+    + Hosting (Deploy App)
+  + React Context API (Redux)
+  + Material UI (Icons UX/UI)
+  + CSS Variables
+  + Flexbox
+  ---
+  
+  #### Commands
+  ##### Create React Application
+  + npx create-react-app "app name" : slack-clone
+  + Material UI
+    + npm install @material-ui/icons
+    + npm install @material-ui/core
+  + npm start
+  + npm run build
+'''
+linesHighlighted: []
+isStarred: false
+isTrashed: false

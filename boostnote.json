@@ -1,0 +1,55 @@
+{
+  "folders": [
+    {
+      "key": "25d4b570c35107313468",
+      "color": "#3FD941",
+      "name": "JavaScript"
+    },
+    {
+      "key": "b57f66297225dcbe22fc",
+      "color": "#2BA5F7",
+      "name": "Firebase"
+    },
+    {
+      "key": "40f98fa2d867d5ea49d3",
+      "color": "#FF8E00",
+      "name": "ReactJS"
+    },
+    {
+      "key": "c05906b79c328f8fc489",
+      "color": "#E8D252",
+      "name": "NodeJS"
+    },
+    {
+      "key": "585cb85d247dd8d2b998",
+      "color": "#E10051",
+      "name": "Python"
+    },
+    {
+      "key": "085c87f86fd3bc6d1d2b",
+      "color": "#3FD941",
+      "name": "Utilities"
+    },
+    {
+      "key": "908887bc17d3585507b5",
+      "color": "#E8D252",
+      "name": "Training"
+    },
+    {
+      "key": "91c2a80b3db5ad742b1a",
+      "color": "#E8D252",
+      "name": "Projects (ReactJS)"
+    },
+    {
+      "key": "41bc7f7e83a1f4e0b11e",
+      "color": "#3FD941",
+      "name": "Projects (Python)"
+    },
+    {
+      "key": "fc47ad1206b75fe5abdc",
+      "color": "#3FD941",
+      "name": "GitHub"
+    }
+  ],
+  "version": "1.0"
+}

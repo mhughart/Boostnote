@@ -1,0 +1,23 @@
+createdAt: "2020-09-12T17:11:46.926Z"
+updatedAt: "2020-09-12T18:46:16.010Z"
+type: "MARKDOWN_NOTE"
+folder: "91c2a80b3db5ad742b1a"
+title: "Portfolio (ReactJS)"
+tags: []
+content: '''
+  # Portfolio (ReactJS)
+  ---
+  ##### Build List
+  + Download: [GitHub - CleverProgrammers/react-portfolio](https://github.com/CleverProgrammers/react-portfolio)
+  + EDIT : public/resumeData.json
+    + Update Information
+  + List of commands
+    + RUN: npm init
+    + RUN: npm install
+    + RUN: npm run build
+    + TEST: npm start
+  + DRAG AND DROP the BUILD folder on Netlify  
+'''
+linesHighlighted: []
+isStarred: false
+isTrashed: false
