@@ -1,0 +1,45 @@
+createdAt: "2020-09-28T15:29:12.503Z"
+updatedAt: "2020-09-30T17:39:44.102Z"
+type: "MARKDOWN_NOTE"
+folder: "91c2a80b3db5ad742b1a"
+title: "Tik-Tok Clone"
+tags: []
+content: '''
+  # Tik-Tok Clone
+  ---
+  ### Project Build
+  
+  + ReactJS
+  + Material UI
+  + Firebase (Hosting \\ DBase)
+  + CSS Hacks
+    + Flexbox
+    + Snap Functionality
+  + 3rd Party
+  + UseRef Hooks
+  
+  ---
+  
+  #### Video Component / Footer
+  + Video Sidebar
+    + Heart
+    + chat
+    + share
+  + Footer
+      + ticker
+      + disk spinner
+  
+  ---
+  
+  ## Install Commands
+  
+  #### Create React Application
+  ```npm
+  npx create-react-app tik-tok-clone
+  ```
+  
+'''
+linesHighlighted: []
+isStarred: false
+isTrashed: false
+isPinned: true

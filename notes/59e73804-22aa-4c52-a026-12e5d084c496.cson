@@ -1,5 +1,5 @@
 createdAt: "2020-09-12T02:06:17.842Z"
-updatedAt: "2020-09-12T02:06:30.899Z"
+updatedAt: "2020-10-13T02:17:24.502Z"
 type: "MARKDOWN_NOTE"
 folder: "91c2a80b3db5ad742b1a"
 title: "Zoom Clone"
@@ -8,7 +8,10 @@ content: '''
   # Zoom Clone
   ---
   ## Build List
+  
+  
 '''
 linesHighlighted: []
 isStarred: false
 isTrashed: false
+isPinned: false

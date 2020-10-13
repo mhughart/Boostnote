@@ -1,5 +1,5 @@
 createdAt: "2020-09-12T02:11:42.838Z"
-updatedAt: "2020-09-12T02:12:20.050Z"
+updatedAt: "2020-09-28T15:30:54.545Z"
 type: "MARKDOWN_NOTE"
 folder: "91c2a80b3db5ad742b1a"
 title: "Amazon Clone"
@@ -7,7 +7,7 @@ tags: []
 content: '''
   # Amazon Clone
   ---
-  ##### Build Guide
+  #### Build List
 '''
 linesHighlighted: []
 isStarred: false

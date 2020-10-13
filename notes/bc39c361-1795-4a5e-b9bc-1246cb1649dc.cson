@@ -1,13 +1,15 @@
 createdAt: "2020-09-11T02:33:49.164Z"
-updatedAt: "2020-09-12T23:44:05.704Z"
+updatedAt: "2020-10-13T02:21:38.850Z"
 type: "MARKDOWN_NOTE"
 folder: "91c2a80b3db5ad742b1a"
 title: "Slack Clone"
-tags: []
+tags: [
+  "Completed"
+]
 content: '''
   # Slack Clone
   ---
-  #### Build List
+  ### Project Build
   + ReactJS
   + React Router
   + Firebase
@@ -18,17 +20,63 @@ content: '''
   + Material UI (Icons UX/UI)
   + CSS Variables
   + Flexbox
-  ---
   
-  #### Commands
-  ##### Create React Application
-  + npx create-react-app "app name" : slack-clone
-  + Material UI
-    + npm install @material-ui/icons
-    + npm install @material-ui/core
-  + npm start
-  + npm run build
+  ## Install Commands
+  
+  #### Create React Application
+  ```npm
+  npx create-react-app slack-clone
+  ```
+  
+  #### Clone Repository
+  ```npm
+  git clone https://github.com/mhughart/slack-clone.git
+  ```
+  
+  #### Material UI - Core
+  ```npm
+  npm install @material-ui/core
+  ```
+  
+  #### Material UI - Icons
+  ```npm
+  npm install @material-ui/icons
+  ```
+  
+  #### Firebase
+  ``` npm
+  npm i firebase
+  ```
+  
+  #### React Router
+  ``` npm
+  npm install react-router-dom
+  ```
+  
+  #### Development Server
+  ``` npm
+  npm start
+  ```
+  #### Firebase Login
+  ``` Firebase Login
+  firebase login
+  ```
+  
+  #### Firebase Init
+  ``` Firebase Init
+  firebase init
+  ```
+  
+  #### Build Project
+  ``` npm / firebase
+  npm run build
+  ```
+  
+  ``` YT
+  https://www.youtube.com/watch?v=Oo4ziTddOxs&t=45s
+  ```
 '''
 linesHighlighted: []
 isStarred: false
 isTrashed: false
+isPinned: true

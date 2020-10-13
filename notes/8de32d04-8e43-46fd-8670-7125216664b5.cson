@@ -1,13 +1,15 @@
 createdAt: "2020-09-12T17:11:46.926Z"
-updatedAt: "2020-09-12T18:46:16.010Z"
+updatedAt: "2020-09-28T18:34:06.837Z"
 type: "MARKDOWN_NOTE"
 folder: "91c2a80b3db5ad742b1a"
 title: "Portfolio (ReactJS)"
-tags: []
+tags: [
+  "Completed"
+]
 content: '''
   # Portfolio (ReactJS)
   ---
-  ##### Build List
+  #### Build List
   + Download: [GitHub - CleverProgrammers/react-portfolio](https://github.com/CleverProgrammers/react-portfolio)
   + EDIT : public/resumeData.json
     + Update Information
@@ -21,3 +23,4 @@ content: '''
 linesHighlighted: []
 isStarred: false
 isTrashed: false
+isPinned: true
